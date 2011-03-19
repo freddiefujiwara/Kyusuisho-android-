@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="question_base">#ffad4f</color>
+<color name="news_base">#1376ba</color>
+<color name="tips_base">#5b921d</color>
+<color name="white">#fff</color>
+<color name="good">#a70503</color>
+<color name="blue">#0e5dc0</color>
+<color name="black">#000</color>
+</resources>

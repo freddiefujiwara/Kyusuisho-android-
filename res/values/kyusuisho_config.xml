@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="config_default_language">ja</string>
+<string name="config_app_name">給水所</string>
+<string name="config_api_all">http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20xml%20where%20url%3D%27http%3A%2F%2Fkyusuisho.appspot.com%2Fapis%2Fall.xml%27</string>
+</resources>
